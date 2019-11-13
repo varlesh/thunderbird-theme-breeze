@@ -1,0 +1,4 @@
+Copy folder "icons" and file "userChrome.css" to directory ~/.thunderbird/PROFILE_NAME.default/chrome/
+Restart Thunderbird.
+
+
